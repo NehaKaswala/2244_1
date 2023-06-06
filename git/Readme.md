@@ -9,3 +9,4 @@ git clone --> clone or download repo from remote to local
 git branch --> list all the branch
 git merge ---> to merge new branch to main or any other branch
 git fetch ---> fetch data from some branch  
+## how to push a change to github
